@@ -1,13 +1,18 @@
-# Title
+# Youtube Video Quick Search - React + Redux state management
 
-*description*
+*searches a keyword through Youtube API*
 
-[deployed url](http://url-if-deployed-here)
+[deployed URL](https://youtube-video-search.onrender.com)
 
-## What Worked Well
+## Stack
 
-## What Didn't
+This starter package that will use:
 
-## Extra Credit
-
-## Screenshots
+- vite
+- sass
+- babel
+- eslint
+- node, npm
+- react
+- react router
+- redux (+RTK query)
